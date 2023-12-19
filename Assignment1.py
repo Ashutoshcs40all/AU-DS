@@ -14,3 +14,4 @@ if __name__ == "__main__":
         print("Element is not present in array")
     else:
         print("Element is present at index", result)
+
